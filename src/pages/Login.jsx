@@ -121,11 +121,11 @@ export const Login = () => {
               </button>
               <button
                 type="button"
-                onClick={() => fillCredentials('john@ombits.com', 'employee123')}
+                onClick={() => fillCredentials('kasun@ombits.com', 'employee123')}
                 className="flex items-center justify-center gap-1.5 p-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg text-xs font-semibold border border-slate-200 transition"
               >
                 <UserCheck className="w-3.5 h-3.5" />
-                Staff Demo
+                Kasun (Staff)
               </button>
             </div>
           </div>

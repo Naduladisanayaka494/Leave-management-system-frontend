@@ -231,7 +231,7 @@ export const Employees = () => {
               name="name"
               value={formData.name}
               onChange={handleInputChange}
-              placeholder="e.g. Robert Martin"
+              placeholder="e.g. Chaminda Bandara"
               className={`w-full px-3.5 py-2 rounded-xl border ${
                 errors.name ? 'border-rose-300 ring-1 ring-rose-200' : 'border-slate-300'
               } text-sm focus:outline-none focus:ring-2 focus:ring-sky-500 transition`}
@@ -246,7 +246,7 @@ export const Employees = () => {
               name="email"
               value={formData.email}
               onChange={handleInputChange}
-              placeholder="robert@ombits.com"
+              placeholder="chaminda@ombits.com"
               className={`w-full px-3.5 py-2 rounded-xl border ${
                 errors.email ? 'border-rose-300 ring-1 ring-rose-200' : 'border-slate-300'
               } text-sm focus:outline-none focus:ring-2 focus:ring-sky-500 transition`}

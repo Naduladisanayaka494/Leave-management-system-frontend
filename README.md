@@ -10,7 +10,7 @@ Modern responsive web application for the **Employee Leave Management System** b
 - **Employee Directory**: Searchable list with department tags and instant employee registration modal.
 - **Leave Request Management**: Client-side date comparison ($endDate \ge startDate$), day duration calculation, and status tracking.
 - **Admin Review Queue**: Dedicated admin view to authorize requests or reject them with mandatory feedback notes.
-- **Evaluator Quick-Fill**: 1-click login buttons for Administrator (`admin@ombits.com`) and Employee (`john@ombits.com`).
+- **Evaluator Quick-Fill**: 1-click login buttons for Administrator (`admin@ombits.com` - Nadula Dissanayake) and Staff (`kasun@ombits.com` - Kasun Perera).
 
 ---
 
